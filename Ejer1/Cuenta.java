@@ -53,7 +53,7 @@ public class Cuenta {
     }
     
     public static void main(String[] args) {
-        Cuenta titular1=new Cuenta("Sandra",2000);
+        Cuenta titular1=new Cuenta("Sara",2000);
         
         titular1.ingresar(300);
         titular1.retirar(200);
