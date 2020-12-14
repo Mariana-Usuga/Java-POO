@@ -38,6 +38,10 @@ public class Raices {
     public boolean tieneRaiz(){
         return getDiscriminante()==0;
     }
+    public void calcular(){
+        if(getDisciminante()){
+        }
+    }
     /*
     public double getSumaSoluciones(){
         double suma=(-b+Math.sqrt(getDiscriminante()))/(2*a);
